@@ -1,0 +1,13 @@
+.App {
+    color: #fff;
+    .container {
+
+        text-align: center;
+        margin: 0 auto;
+        max-width: 95%;
+
+        @media (min-width: 768px) {
+            max-width: 600px;
+        }
+    }
+}
