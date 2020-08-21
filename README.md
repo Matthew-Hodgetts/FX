@@ -1,3 +1,11 @@
+# Currency Converter
+
+This app demonstrates using an API (To fetch currency data), use of react hooks (no class based components). The project was made with create-react-app.
+
+See a live demo of this project: 
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
