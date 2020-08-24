@@ -1,4 +1,24 @@
-.title {
-    font-weight:500;
-    font-size: 4rem;
+.menu {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    a {
+      padding: 5px;
+      margin: 5px;
+    }
+  }
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: 700;
+  transition: opacity 0.5s ease;
+
+  &:hover {
+    opacity: 0.75;
+  }
 }
