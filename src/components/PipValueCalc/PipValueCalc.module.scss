@@ -1,0 +1,18 @@
+.form {
+  label {
+    display: block;
+    margin: 1rem 0 0.5rem;
+  }
+  select,
+  option,
+  input {
+    display: block;
+    width: 100%;
+    padding: 0.5rem 0.25rem;
+  }
+}
+
+.result {
+  margin: 2rem 0;
+  font-weight: bold;
+}
