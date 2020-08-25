@@ -1,7 +1,9 @@
 import React from 'react';
 
+import PageTitle from '../components/PageTitle/PageTitle';
+
 const PvcPage = () => {
-  return <h1>pvc page</h1>;
+  return <PageTitle title="Pip value calculator" />;
 };
 
 export default PvcPage;
